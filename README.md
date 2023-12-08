@@ -1,4 +1,4 @@
-Trabalho realido pelos aluno de Ciencia da Computação da UNICURITIBA 
+Trabalho realizado pelos alunos de Ciencia da Computação da UNICURITIBA 
 
 Victor Panatta Nogueira RA 172212648  
 
